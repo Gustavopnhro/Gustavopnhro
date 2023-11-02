@@ -2,5 +2,5 @@
 
 <img src="./img/welcome.gif" alt="Welcome" align="center"></img>
 
-<h3 align="center>  Welcome to my profile. My name is Gustavo 🌲. </h3>
+<h3 align="center">  Welcome to my profile. My name is Gustavo 🌲. </h3>
 
