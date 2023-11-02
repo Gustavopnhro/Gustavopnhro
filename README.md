@@ -4,7 +4,9 @@ gustavopnhro@github:~$ ./welcome.sh
 
 <img src="./img/Welcome.gif" alt="Welcome" align="center"></img>
 
-<a href="https://www.linkedin.com/in/gustavo-pinheiro-0151b0274" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=448500&random=false&width=435&lines=My+name+is+Gustavo;and+I'm+Intern+DevOps" alt="Typing SVG"/></a>
+
+<a href="https://www.linkedin.com/in/gustavo-pinheiro-0151b0274" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=448500&center=true&vCenter=true&random=false&width=435&lines=My+name+is+Gustavo;and+I'm+Intern+DevOps" alt="Typing SVG" /></a>
+
 
 <h2 align="center">  Welcome to my profile. My name is Gustavo 🌲 I'm a DevOps Intern</h2>
 <div>
