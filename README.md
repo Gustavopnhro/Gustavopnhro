@@ -7,4 +7,4 @@
 
 <hr>
 <h3> How to Reach me?</h3>
-<a> https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white </a>
+<a href="www.google.com.br"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" align="center"></img> </a>
