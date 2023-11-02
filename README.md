@@ -5,3 +5,6 @@
 <h2 align="center">  Welcome to my profile. My name is Gustavo 🌲. </h2>
 
 
+<hr>
+<h3> How to Reach me?</h3>
+<a> https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white </a>
