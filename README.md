@@ -4,7 +4,7 @@ gustavopnhro@github:~$ ./welcome.sh
 
 <img src="./img/Welcome.gif" alt="Welcome" align="center"></img>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%23414141&size=250&duration=3000&center=true&width=5000&height=500&lines=Oie+pessoas!;My name is Gustavo+(:" align="center" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=448500&random=false&width=435&lines=My+name+is+Gustavo;and+I'm+Intern+DevOps)](https://git.io/typing-svg)
 
 <h2 align="center">  Welcome to my profile. My name is Gustavo 🌲 I'm a DevOps Intern</h2>
 <div>
