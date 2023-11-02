@@ -1,4 +1,6 @@
-<h1 align="center"> 🚦 Welcome to the Future 🚦</h1>
+```console
+gustavopnhro@github:~$ ./welcome.sh
+```
 
 <img src="./img/Welcome.gif" alt="Welcome" align="center"></img>
 
