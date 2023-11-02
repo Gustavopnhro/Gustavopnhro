@@ -7,4 +7,4 @@
 
 <hr>
 <h3> How to Reach me?</h3>
-<a href="https://www.linkedin.com/in/gustavo-pinheiro-0151b0274"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" align="center"></img> </a>
+<a href="https://www.linkedin.com/in/gustavo-pinheiro-0151b0274" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" align="center" target="_blank"></img> </a>
