@@ -29,7 +29,7 @@ gustavopnhro@github:~$ ./welcome.sh
 </div>
 
 
-<img src="./img/bg.png">
+<img src="https://cdna.artstation.com/p/assets/images/images/023/864/890/original/kyle-sun-bg-forest.gif?1580587298">
 
 ```console
 gustavopnhro@github:~$ ^x
