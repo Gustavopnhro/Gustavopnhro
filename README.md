@@ -29,7 +29,7 @@ gustavopnhro@github:~$ ./welcome.sh
 </div>
 
 
-<img src="./img/bg.png">
+<img src="./img/bg.png" width=1000px>
 
 ```console
 gustavopnhro@github:~$ ^x
