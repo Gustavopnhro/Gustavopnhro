@@ -2,7 +2,7 @@
 gustavopnhro@github:~$ ./welcome.sh
 ```
 
-<a href="https://www.linkedin.com/in/gustavo-pinheiro-0151b0274" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=200&duration=2000&pause=1000&color=0072B1&center=true&vCenter=true&random=false&width=5000&height=495&lines=My+name+is+Gustavo;and+I'm+DevOps+Jr⚙️" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/gustavo-pinheiro-0151b0274" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=200&duration=2000&pause=1000&color=FCFCFF&center=true&vCenter=true&random=false&width=5000&height=495&lines=My+name+is+Gustavo;and+I'm+DevOps+Jr⚙️" alt="Typing SVG" /></a>
 
 <div align="center">
     <img align="center" alt="gustavo-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
