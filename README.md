@@ -1,9 +1,6 @@
 ```console
 gustavopnhro@github:~$ ./welcome.sh
 ```
-<img src="./img/cloud.png">
-
-
 
 <a href="https://www.linkedin.com/in/gustavo-pinheiro-0151b0274" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=200&duration=2000&pause=1000&color=0072B1&center=true&vCenter=true&random=false&width=5000&height=495&lines=My+name+is+Gustavo;and+I'm+Intern+DevOps+⚙️" alt="Typing SVG" /></a>
 
@@ -28,8 +25,6 @@ gustavopnhro@github:~$ ./welcome.sh
     <img src="./img/brazil_flag.png" height=20px alt="Braziç" title="Brazil"> Native&nbsp; | &nbsp;<img src="./img/uk_flag.png" alt="English" title="English" height=15px> Begginer
 </div>
 
-
-<img src="./img/bg.png" width=1000px>
 
 ```console
 gustavopnhro@github:~$ ^x
